@@ -4,6 +4,7 @@
 	"description": "This is my take on the FreeCodeCamp challenge",
 	"keywords": ["freecodecamp","firsttake","self-learning"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
