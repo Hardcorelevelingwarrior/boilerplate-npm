@@ -3,6 +3,7 @@
 	"author": "Duc Minh",
 	"description": "This is my take on the FreeCodeCamp challenge",
 	"keywords": ["freecodecamp","firsttake","self-learning"],
+	"license": "MIT",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
